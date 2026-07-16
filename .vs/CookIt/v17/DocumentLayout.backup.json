@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hiliz\\source\\repos\\CookIt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CookIt\\CookIt.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Repositories\\RecipeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CookIt\\CookIt.Api\\Repositories\\RecipeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Services\\RecipeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CookIt\\CookIt.Api\\Services\\RecipeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Services\\IRecipeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CookIt\\CookIt.Api\\Services\\IRecipeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Repositories\\IRecipeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CookIt\\CookIt.Api\\Repositories\\IRecipeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Repositories\\FakeDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CookIt\\CookIt.Api\\Repositories\\FakeDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Models\\Recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CookIt\\CookIt.Api\\Models\\Recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\CookIt\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\CookIt\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\CookIt\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\CookIt\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\CookIt\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\CookIt\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\CookIt\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\CookIt\\CookIt.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Program.cs",
+              "RelativeToolTip": "backend\\CookIt\\CookIt.Api\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:16:22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Services\\RecipeService.cs",
+              "RelativeDocumentMoniker": "backend\\CookIt\\CookIt.Api\\Services\\RecipeService.cs",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Services\\RecipeService.cs",
+              "RelativeToolTip": "backend\\CookIt\\CookIt.Api\\Services\\RecipeService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:15:43.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Services\\IRecipeService.cs",
+              "RelativeDocumentMoniker": "backend\\CookIt\\CookIt.Api\\Services\\IRecipeService.cs",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Services\\IRecipeService.cs",
+              "RelativeToolTip": "backend\\CookIt\\CookIt.Api\\Services\\IRecipeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:15:38.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Repositories\\RecipeRepository.cs",
+              "RelativeDocumentMoniker": "backend\\CookIt\\CookIt.Api\\Repositories\\RecipeRepository.cs",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Repositories\\RecipeRepository.cs",
+              "RelativeToolTip": "backend\\CookIt\\CookIt.Api\\Repositories\\RecipeRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:14:54.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRecipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Repositories\\IRecipeRepository.cs",
+              "RelativeDocumentMoniker": "backend\\CookIt\\CookIt.Api\\Repositories\\IRecipeRepository.cs",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Repositories\\IRecipeRepository.cs",
+              "RelativeToolTip": "backend\\CookIt\\CookIt.Api\\Repositories\\IRecipeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:14:41.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FakeDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Repositories\\FakeDatabase.cs",
+              "RelativeDocumentMoniker": "backend\\CookIt\\CookIt.Api\\Repositories\\FakeDatabase.cs",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Repositories\\FakeDatabase.cs",
+              "RelativeToolTip": "backend\\CookIt\\CookIt.Api\\Repositories\\FakeDatabase.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:14:15.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "backend\\CookIt\\CookIt.Api\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\backend\\CookIt\\CookIt.Api\\Models\\Recipe.cs",
+              "RelativeToolTip": "backend\\CookIt\\CookIt.Api\\Models\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:14:03.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\eslint.config.js",
+              "RelativeDocumentMoniker": "frontend\\CookIt\\eslint.config.js",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\eslint.config.js",
+              "RelativeToolTip": "frontend\\CookIt\\eslint.config.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-30T05:53:20.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\vite.config.js",
+              "RelativeDocumentMoniker": "frontend\\CookIt\\vite.config.js",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\vite.config.js",
+              "RelativeToolTip": "frontend\\CookIt\\vite.config.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-30T05:41:39.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\src\\main.jsx",
+              "RelativeDocumentMoniker": "frontend\\CookIt\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\src\\main.jsx",
+              "RelativeToolTip": "frontend\\CookIt\\src\\main.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-30T05:39:18.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\index.html",
+              "RelativeDocumentMoniker": "frontend\\CookIt\\index.html",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\index.html",
+              "RelativeToolTip": "frontend\\CookIt\\index.html",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-30T05:38:50.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\package.json",
+              "RelativeDocumentMoniker": "frontend\\package.json",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\package.json",
+              "RelativeToolTip": "frontend\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T05:33:47.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\src\\App.jsx",
+              "RelativeDocumentMoniker": "frontend\\CookIt\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\src\\App.jsx",
+              "RelativeToolTip": "frontend\\CookIt\\src\\App.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-30T05:31:45.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\src\\App.css",
+              "RelativeDocumentMoniker": "frontend\\CookIt\\src\\App.css",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\src\\App.css",
+              "RelativeToolTip": "frontend\\CookIt\\src\\App.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-30T05:31:00.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\src\\index.css",
+              "RelativeDocumentMoniker": "frontend\\CookIt\\src\\index.css",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\CookIt\\src\\index.css",
+              "RelativeToolTip": "frontend\\CookIt\\src\\index.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-30T05:30:57.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\tailwind.config.js",
+              "RelativeDocumentMoniker": "frontend\\tailwind.config.js",
+              "ToolTip": "C:\\Users\\hiliz\\source\\repos\\CookIt\\frontend\\tailwind.config.js",
+              "RelativeToolTip": "frontend\\tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-30T05:29:30.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

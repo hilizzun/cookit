@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend\\CookIt",
+    "\\backend\\CookIt\\CookIt.Api",
+    "\\frontend",
+    "\\frontend\\CookIt",
+    "\\frontend\\CookIt\\src"
+  ],
+  "SelectedNode": "\\frontend\\CookIt\\vite.config.js",
+  "PreviewInSolutionExplorer": false
+}
