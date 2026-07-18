@@ -1,4 +1,4 @@
-﻿using CookIt.Core.Entities;
+using CookIt.Core.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
@@ -39,6 +39,10 @@ namespace CookIt.Infrastructure.Configuration.EntityFramework
                 .WithMany()
                 .HasForeignKey(r => r.DishTypeId)
                 .OnDelete(DeleteBehavior.Restrict);
+
+            builder.HasIndex(r => new { r.Name, r.ShortDescription, r.FullDescription })
+                .HasMethod("GIN")
+                .IsTsVectorExpressionIndex("russian");
 
             builder.ToTable(tb =>
             {

@@ -1,4 +1,4 @@
-﻿using CookIt.Api.CustomTokenProviders;
+using CookIt.Api.CustomTokenProviders;
 using CookIt.Api.Middleware;
 using CookIt.Api.Services.Auth;
 using CookIt.Application.BackgroundServices;
@@ -15,7 +15,6 @@ using CookIt.Infrastructure.Repositories;
 using CookIt.Infrastructure.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.AI;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
@@ -72,9 +71,6 @@ builder.Services.Configure<EmailConfirmationTokenProviderOptions>(opt =>
 builder.Services.Configure<SmtpSettings>(builder.Configuration.GetSection("SmtpSettings"));
 
 builder.Services.AddTransient<IEmailSender, SmtpEmailSender>();
-
-builder.Services.AddDbContext<DbContext, CookItContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddScoped<UserManager<ApplicationUser>>();
 

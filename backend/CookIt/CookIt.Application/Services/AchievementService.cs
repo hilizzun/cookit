@@ -1,4 +1,4 @@
-﻿using CookIt.Core.Dtos.Achievement;
+using CookIt.Core.Dtos.Achievement;
 using CookIt.Core.Interfaces;
 using CookIt.Core.Settings;
 using Microsoft.Extensions.Configuration;
@@ -13,10 +13,6 @@ namespace CookIt.Application.Services
         public AchievementService(AchievementSettings settings, IConfiguration configuration)
         {
             _settings = settings;
-            // if (_settings.Achievements == null || _settings.Achievements.Count == 0)
-            // {
-            //     _settings.Achievements = GetDefaultAchievements();
-            // }
             _baseUrl = configuration["BaseUrl"] ?? "https://localhost:7031";
         }
 
